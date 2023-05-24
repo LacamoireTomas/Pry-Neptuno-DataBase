@@ -60,7 +60,7 @@ namespace Pry_Neptuno_DataBase
 
                 ComandoDBNeptunoDataReader = ComandoDBNeptuno.ExecuteReader();
 
-                
+                label1.Text=("De perlas");
 
                     while(ComandoDBNeptunoDataReader.Read()) 
                 {

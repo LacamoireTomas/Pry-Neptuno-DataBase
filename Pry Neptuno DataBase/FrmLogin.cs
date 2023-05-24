@@ -16,5 +16,18 @@ namespace Pry_Neptuno_DataBase
         {
             InitializeComponent();
         }
+
+        private void btnIniciarSesion_Click(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "1" & txtContra.Text=="1")
+            {   
+                
+
+            }
+            else
+            {
+                MessageBox.Show("Error");     
+            }
+        }
     }
 }

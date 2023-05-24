@@ -147,9 +147,8 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(124, 220);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(0, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "label1";
             // 
             // frmConsulta
             // 
